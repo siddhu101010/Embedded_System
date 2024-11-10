@@ -11,7 +11,7 @@ MAIN
 
 STOP B STOP               ; Endless loop
 
-VALUE1 DCD 0x22222222     ; Define VALUE1 with initial value
+VALUE1 DCD 0x22220000     ; Define VALUE1 with initial value
 VALUE2 DCD 0x00002222     ; Define VALUE2 with initial value
 
     AREA DATA, DATA, READWRITE
