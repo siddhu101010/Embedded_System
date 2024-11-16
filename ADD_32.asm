@@ -17,3 +17,10 @@ VALUE2 DCD 0x00002222     ; Define VALUE2 with initial value
     AREA DATA, DATA, READWRITE
 RES DCD 0x0               ; Define RES (RESULT) with initial value 0
     END
+
+
+
+
+
+
+-- End of the code
